@@ -1,0 +1,15 @@
+GenotypeName,StemAnthocyanin,AnthocyaninIntensity,StemPubescence,StemPubescenceIntensity,LeafBladeColour,LeafBladeColourIntensity,ColourOfVein,IntensityOfColour8,SpineonLeaf,FlowerColour,FruitingPattern,FruitColour,IntensityofColour13,Stripes,StripesDensity,FruitPatches,SpinesInCalyx,DensityOfSpininess,FruitShape,surrogate_key,effective_date,end_date,active_flag,Action
+102,Present,Medium,Present,Medium,Green,Medium,Purple,Medium,Absent,Purple,Solitary,Purple,Dark,Present,Sparse,Absent,Absent,Absent,Globular,2,2024-08-13,9999-12-31,true,NOCHANGE
+104,Absent,Absent,Present,Medium,Green,Dark,Green,Medium,Absent,Greenish_White,Solitary,Green,Med ium,Absent,Absent,Absent,Present,Absent,Club,4,2024-08-13,9999-12-31,true,NOCHANGE
+105,Present,Weak,Present,Medium,Green,Medium,Purple,Light,Absent,Light_Purple,Solitary,Purple,Dark,Absent,Absent,Absent,Absent,Absent,Obovate,5,2024-08-13,9999-12-31,true,NOCHANGE
+106,Present,Medium,Present,Weak,Green,Medium,Green,Medium,Absent,Light_Purple,Cluster,Green,Medium,Absent,Absent,Absent,Present,Medium,Club,6,2024-08-13,9999-12-31,true,NOCHANGE
+109,Present,Medium,Present,Medium,Green,Dark,Purple,Medium,Absent,Light_Purple,Solitary,Purple,Dark,Absent,Absent,Absent,Absent,Absent,Obovate,9,2024-08-13,9999-12-31,true,NOCHANGE
+110,Absent,Absent,Present,Strong,Green,Medium,Green,Medium,Absent,Purple,Solitary,Green,Medium,Absent,Absent,Present,Absent,Absent,Globular,10,2024-08-13,9999-12-31,true,NOCHANGE
+111,Present,Weak,Present,Medium,Green,Medium,Green,Medium,Absent,Purple,Solitary,Purple,Medium,Present,Strong,Absent,Present,Medium,Ovoid,11,2024-08-13,9999-12-31,true,INSERT
+112,Absent,Absent,Present,Medium,Green,Medium,Green,Medium,Absent,Light_Purple,Cluster,Green,Medium,Present,Sparse,Present,Absent,Absent,Obovate,12,2024-08-13,9999-12-31,true,INSERT
+101,Absent,Absent,Present,Medium,Green,Dark,Green,Medium,Absent,Purple,Cluster,Purple,Medium,Present,Sparse,Present,Absent,Absent,Obovate,1,2024-08-13,2024-08-13,false,UPDATE
+108,Present,Strong,Present,Medium,Green,Light,Purple,Medium,Absent,Light_Purple,Solitary,Purple,Dark,Absent,Absent,Present,Present,Medium,Ovoid,8,2024-08-13,2024-08-13,false,UPDATE
+101,Absent,Absent,Present,Medium,Green,Dark,Green,Medium,Absent,Purple,Cluster,Purple,Medium,Present,Sparse,Present,Absent,Absent,Globular,11,2024-08-13,9999-12-31,true,UPDATE
+108,Present,Strong,Present,Medium,Green,Light,Purple,Medium,Absent,Light_Purple,Solitary,Purple,Dark,Absent,Absent,Present,Present,Medium,Club,12,2024-08-13,9999-12-31,true,UPDATE
+103,Absent,Absent,Present,Medium,Green,Medium,Green,Medium,Absent,Light_Purple,Cluster,Green,Medium,Present,Sparse,Present,Absent,Absent,Obovate,3,2024-08-13,2024-08-13,false,DELETE
+107,Present,Weak,Present,Medium,Green,Medium,Green,Medium,Absent,Purple,Solitary,Purple,Medium,Present,Strong,Absent,Present,Medium,Ovoid,7,2024-08-13,2024-08-13,false,DELETE

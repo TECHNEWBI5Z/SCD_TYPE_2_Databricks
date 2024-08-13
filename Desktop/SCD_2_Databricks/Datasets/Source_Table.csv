@@ -1,0 +1,11 @@
+GenotypeName,StemAnthocyanin,AnthocyaninIntensity,StemPubescence,StemPubescenceIntensity,LeafBladeColour,LeafBladeColourIntensity,ColourOfVein,IntensityOfColour8,SpineonLeaf,FlowerColour,FruitingPattern,FruitColour,IntensityofColour13,Stripes,StripesDensity,FruitPatches,SpinesInCalyx,DensityOfSpininess,FruitShape
+101,Absent,Absent,Present,Medium,Green,Dark,Green,Medium,Absent,Purple,Cluster,Purple,Medium,Present,Sparse,Present,Absent,Absent,Globular
+102,Present,Medium,Present,Medium,Green,Medium,Purple,Medium,Absent,Purple,Solitary,Purple,Dark,Present,Sparse,Absent,Absent,Absent,Globular
+104,Absent,Absent,Present,Medium,Green,Dark,Green,Medium,Absent,Greenish_White,Solitary,Green,Med ium,Absent,Absent,Absent,Present,Absent,Club
+105,Present,Weak,Present,Medium,Green,Medium,Purple,Light,Absent,Light_Purple,Solitary,Purple,Dark,Absent,Absent,Absent,Absent,Absent,Obovate
+106,Present,Medium,Present,Weak,Green,Medium,Green,Medium,Absent,Light_Purple,Cluster,Green,Medium,Absent,Absent,Absent,Present,Medium,Club
+108,Present,Strong,Present,Medium,Green,Light,Purple,Medium,Absent,Light_Purple,Solitary,Purple,Dark,Absent,Absent,Present,Present,Medium,Club
+109,Present,Medium,Present,Medium,Green,Dark,Purple,Medium,Absent,Light_Purple,Solitary,Purple,Dark,Absent,Absent,Absent,Absent,Absent,Obovate
+110,Absent,Absent,Present,Strong,Green,Medium,Green,Medium,Absent,Purple,Solitary,Green,Medium,Absent,Absent,Present,Absent,Absent,Globular
+111,Present,Weak,Present,Medium,Green,Medium,Green,Medium,Absent,Purple,Solitary,Purple,Medium,Present,Strong,Absent,Present,Medium,Ovoid
+112,Absent,Absent,Present,Medium,Green,Medium,Green,Medium,Absent,Light_Purple,Cluster,Green,Medium,Present,Sparse,Present,Absent,Absent,Obovate

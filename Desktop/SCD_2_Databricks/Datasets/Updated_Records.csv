@@ -1,0 +1,5 @@
+GenotypeName,StemAnthocyanin,AnthocyaninIntensity,StemPubescence,StemPubescenceIntensity,LeafBladeColour,LeafBladeColourIntensity,ColourOfVein,IntensityOfColour8,SpineonLeaf,FlowerColour,FruitingPattern,FruitColour,IntensityofColour13,Stripes,StripesDensity,FruitPatches,SpinesInCalyx,DensityOfSpininess,FruitShape,surrogate_key,effective_date,Action,end_date,active_flag
+101,Absent,Absent,Present,Medium,Green,Dark,Green,Medium,Absent,Purple,Cluster,Purple,Medium,Present,Sparse,Present,Absent,Absent,Obovate,1,2024-08-13,UPDATE,2024-08-13,false
+108,Present,Strong,Present,Medium,Green,Light,Purple,Medium,Absent,Light_Purple,Solitary,Purple,Dark,Absent,Absent,Present,Present,Medium,Ovoid,8,2024-08-13,UPDATE,2024-08-13,false
+101,Absent,Absent,Present,Medium,Green,Dark,Green,Medium,Absent,Purple,Cluster,Purple,Medium,Present,Sparse,Present,Absent,Absent,Globular,11,2024-08-13,UPDATE,9999-12-31,true
+108,Present,Strong,Present,Medium,Green,Light,Purple,Medium,Absent,Light_Purple,Solitary,Purple,Dark,Absent,Absent,Present,Present,Medium,Club,12,2024-08-13,UPDATE,9999-12-31,true
